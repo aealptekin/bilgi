@@ -1,7 +1,7 @@
 {
-  "name": "Çarkıfelek Bilgi Oyunu",
-  "short_name": "Çarkıfelek",
-  "description": "Çok oyunculu çarkıfelek bilgi yarışması.",
+  "name": "Bilgi Yarışması",
+  "short_name": "Bilgi Yarışması",
+  "description": "Çok oyunculu bilgi yarışması.",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#F2F2F7",
